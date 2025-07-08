@@ -47,14 +47,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sunil-neo/DemoReactPackage.git/react-native-awesome-module.git"
+    "url": "git+https://github.com/Sunil-neo/React_Demo_Package_Test.git/react-native-awesome-module.git"
   },
-  "author": "Amit <amit.kumar@neosoftmail.in> (https://github.com/Sunil-neo/DemoReactPackage.git)",
+  "author": "Amit <amit.kumar@neosoftmail.in> (https://github.com/Sunil-neo/React_Demo_Package_Test.git)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sunil-neo/DemoReactPackage.git/react-native-awesome-module/issues"
+    "url": "https://github.com/Sunil-neo/React_Demo_Package_Test.git/react-native-awesome-module/issues"
   },
-  "homepage": "https://github.com/Sunil-neo/DemoReactPackage.git/react-native-awesome-module#readme",
+  "homepage": "https://github.com/Sunil-neo/React_Demo_Package_Test.git/react-native-awesome-module#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
@@ -160,5 +160,8 @@
     "languages": "kotlin-objc",
     "type": "turbo-module",
     "version": "0.51.1"
+  },
+  "directories": {
+    "example": "example"
   }
 }
