@@ -1,5 +1,5 @@
 {
-  "name": "react-native-awesome-module",
+  "name": "react-native-awesome-module-example-rn-demo",
   "version": "0.1.0",
   "description": "Demo NPM Package ",
   "main": "./lib/module/index.js",
@@ -32,7 +32,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace react-native-awesome-module-example",
+    "example": "yarn workspace react-native-awesome-module-example-rn-demo",
     "test": "jest",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -46,14 +46,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sunil-neo/React_Demo_Package_Test.git/react-native-awesome-module.git"
+    "url": "git+https://github.com/Sunil-neo/React_Demo_Package_Test.git"
   },
   "author": "Amit <amit.kumar@neosoftmail.in> (https://github.com/Sunil-neo/React_Demo_Package_Test.git)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sunil-neo/React_Demo_Package_Test.git/react-native-awesome-module/issues"
+    "url": "https://github.com/Sunil-neo/React_Demo_Package_Test/issues"
   },
-  "homepage": "https://github.com/Sunil-neo/React_Demo_Package_Test.git/react-native-awesome-module#readme",
+  "homepage": "https://github.com/Sunil-neo/React_Demo_Package_Test.git#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

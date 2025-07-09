@@ -10254,9 +10254,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-awesome-module-example@workspace:example":
+"react-native-awesome-module-example-rn-demo@workspace:example":
   version: 0.0.0-use.local
-  resolution: "react-native-awesome-module-example@workspace:example"
+  resolution: "react-native-awesome-module-example-rn-demo@workspace:example"
   dependencies:
     "@babel/core": ^7.25.2
     "@babel/preset-env": ^7.25.3
