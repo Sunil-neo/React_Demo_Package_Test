@@ -1,5 +1,5 @@
 import { Text, View, StyleSheet } from 'react-native';
-import { addition, multiply } from 'react-native-awesome-module';
+import { addition, multiply } from 'react-native-awesome-module-rn-demo';
 
 const result = multiply(3, 8);
 const resultAdd = addition(3, 8);
